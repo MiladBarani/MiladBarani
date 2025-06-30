@@ -1,7 +1,28 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb&height=200&section=header&text=Milad%20Jafari%20Barani&fontSize=40&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Milad Jafari Barani</h1>
 
 <p align="center">
- I am an AI researcher, software developer, and university lecturer with over a decade of experience in both academia and industry. My work spans areas such as machine learning, image processing, cybersecurity, and intelligent systems. I have taught numerous courses including C++, Artificial Intelligence, Web Development, and Databases at multiple universities in Iran. In parallel, I have contributed to industrial projects as a Django API developer, IoT project manager, and network consultant. My research is reflected in 15+ international publications, covering topics like image authentication, video steganography, and chaos-based optimization algorithms.
+  I am an AI researcher, software developer, and university lecturer with over a decade of experience in both academia and industry.  
+  My work spans areas such as machine learning, image processing, cybersecurity, and intelligent systems.  
+  I have taught numerous courses including C++, Artificial Intelligence, Web Development, and Databases at multiple universities in Iran.  
+  In parallel, I have contributed to industrial projects as a Django API developer, IoT project manager, and network consultant.  
+  My research is reflected in 15+ international publications, covering topics like image authentication, video steganography, and chaos-based optimization algorithms.
+</p>
+
+---
+
+### 📌 Quick Links & Profiles
+
+<p align="center">
+  <a href="mailto:Milad.jafare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/milad-jafari-barani-5612a4a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=HFVAy78AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+  <a href="https://orcid.org/0000-0002-9631-9889"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Milad-Jafari-Barani"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
 </p>
 
 ---
@@ -22,50 +43,35 @@
 
 ### 🛠 Technical Skills
 
-**👨‍💻 Languages & Technologies**
-- Python, C/C++, MATLAB, OpenCV, LaTeX
-- Django, REST APIs
-- Git, Linux, VSCode
+**👨‍💻 Languages & Technologies**  
+Python, C/C++, MATLAB, OpenCV, LaTeX, Django, REST APIs, Git, Linux, VSCode
 
-**🧠 Machine Learning & AI**
-- Supervised: SVM, Neural Networks, Random Forest, Logistic/Linear Regression
-- Unsupervised: K-Means, DBSCAN, PCA, HCA
-- Deep Learning, Transformer Models, Reinforcement Learning
-- Image Authentication, Watermarking, Steganography
+**🧠 Machine Learning & AI**  
+SVM, Neural Networks, Random Forest, Logistic/Linear Regression, K-Means, DBSCAN, PCA, Transformers, Deep Learning, Reinforcement Learning
 
-**🧰 Tools**
-- LaTeX, Microsoft Office, Photoshop, SketchUp
+**🧰 Tools**  
+LaTeX, Microsoft Office, Photoshop, SketchUp
 
-**🌍 Languages**
-- Persian (native), English (fluent), Azari, Turkish
+**🌍 Languages**  
+Persian (native), English (fluent), Azari, Turkish
 
 ---
 
 ### 📚 Publications
 
-- 📝 Authors and Co-author of 15+ peer-reviewed journal and conference papers in areas like:
-  - Image Authentication and Tamper detection
-  - Video Steganography and Watermarking using Chaotic Maps
-  - Digital Image Security
-  - Intelligent Optimization Algorithms
-  - Medical Imaging
+📝 Author/co-author of 15+ international peer-reviewed articles in:
+- Image Authentication and Tamper Detection
+- Video Steganography & Watermarking using Chaotic Maps
+- Medical Imaging & Fractal Analysis
+- Intelligent Optimization Algorithms
 
-📄 [Google Scholar Profile]([https://scholar.google.com](https://scholar.google.com/citations?user=HFVAy78AAAAJ&hl=en))
-
----
-
-### 📬 Contact Me
-
-- 📧 Email: Milad.jafare@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/milad-jafari-barani-5612a4a0](https://www.linkedin.com/in/milad-jafari-barani-5612a4a0/)
-
+📄 [Google Scholar Profile](https://scholar.google.com/citations?user=HFVAy78AAAAJ&hl=en)
 
 ---
-
 ### 🧗 Hobbies & Interests
 
 ⛰ Mountaineering | 🏐 Volleyball | 📸 Photography | 📖 Reading
 
 ---
 
-> Thanks for visiting my profile! I'm open to research collaboration, AI-based projects, or software development opportunities. Feel free to reach out! 🌱
+> 🙏 Thanks for visiting my profile! I'm open to collaboration on AI research, academic projects, or industry applications. Let's connect.
