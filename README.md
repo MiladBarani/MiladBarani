@@ -68,10 +68,4 @@ Persian (native), English (fluent), Azari, Turkish
 📄 [Google Scholar Profile](https://scholar.google.com/citations?user=HFVAy78AAAAJ&hl=en)
 
 ---
-### 🧗 Hobbies & Interests
-
-⛰ Mountaineering | 🏐 Volleyball | 📸 Photography | 📖 Reading
-
----
-
 > 🙏 Thanks for visiting my profile! I'm open to collaboration on AI research, academic projects, or industry applications. Let's connect.
