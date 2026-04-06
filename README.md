@@ -29,6 +29,7 @@
 
 ### 🎓 About Me
 
+- 🎓 Phd Candidate in **Artificial Intelligence** from University of Oviedo, Oviedo, Spain
 - 🎓 M.Sc. in **Artificial Intelligence** from Azad University of Qazvin (MRL Lab)
 - 🧠 Passionate about: Machine Learning, Image Processing, Data Hiding, Cybersecurity, and Chaos Theory
 - 👨‍🏫 Over a decade of teaching experience in:
