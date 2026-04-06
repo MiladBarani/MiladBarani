@@ -36,6 +36,7 @@
 - 💼 Industrial experience as:
   - Django API Developer, IoT Project Manager, Network Consultant
 - 🔬 Researcher in:
+  - Explainable Artificial Intelligence(XAI), Predicting Alzheimer's disease with artificial intelligence
   - Visual data analysis (CT/MRI), Scanning Tunneling Microscopy (STM)
   - Image and video security, watermarking, and data hiding
 
@@ -53,7 +54,7 @@ SVM, Neural Networks, Random Forest, Logistic/Linear Regression, K-Means, DBSCAN
 LaTeX, Microsoft Office, Photoshop, SketchUp
 
 **🌍 Languages**  
-Persian (native), English (fluent), Azari, Turkish
+Persian (Native), English (fluent), Azari (Native), Turkish
 
 ---
 
