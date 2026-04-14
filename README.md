@@ -23,8 +23,7 @@
   <a href="https://scholar.google.com/citations?user=HFVAy78AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
   <a href="https://orcid.org/0000-0002-9631-9889"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Milad-Jafari-Barani"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
-<a href=" https://www.sciprofiles.com/profile/MiladJafariBarani"></a>
- 
+
 </p>
 
 ---
